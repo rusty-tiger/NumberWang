@@ -1,0 +1,44 @@
+Initialize engine version: 4.7.2f1 (a7fe7b7f3d1f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7800 Series (ID=0x6818)
+    Vendor:   ATI
+    VRAM:     2029 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Adam2\Documents\UnityCourse\NumberWang2\NumberWang\Build\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Adam2\Documents\UnityCourse\NumberWang2\NumberWang\Build\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Adam2\Documents\UnityCourse\NumberWang2\NumberWang\Build\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Adam2\Documents\UnityCourse\NumberWang2\NumberWang\Build\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Adam2\Documents\UnityCourse\NumberWang2\NumberWang\Build\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Adam2\Documents\UnityCourse\NumberWang2\NumberWang\Build\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.090 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Adam2\Documents\UnityCourse\NumberWang2\NumberWang\Build\Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Adam2\Documents\UnityCourse\NumberWang2\NumberWang\Build\Build_Data\Managed\System.dll (this message is harmless)
+Level REquest: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 12.002100 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 135.
+Total: 1.963356 ms (FindLiveObjects: 0.038193 ms CreateObjectMapping: 0.014668 ms MarkObjects: 0.293922 ms  DeleteObjects: 0.007749 ms)
+
+Level REquest: Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.891453 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 143.
+Total: 2.522970 ms (FindLiveObjects: 0.024078 ms CreateObjectMapping: 0.024908 ms MarkObjects: 0.380272 ms  DeleteObjects: 0.010240 ms)
+
+Plz Quit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
